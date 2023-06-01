@@ -1,0 +1,35 @@
+ <!-- PURE HTML -->
+
+<!-- WHAT IS HTML5? -->
+        Hypertext Markup Language revision 5(HTML5). markup language for the structure and presentation of World Wide Web contents.
+ It supports the traditional HTML and XHTML-style syntax and other new features, new APIs, XHTML and error handling.
+
+      Hyper Text: "Text within Text."
+      Markup language: "makes text more interactive and dynamic"
+      Web Page: It is a document which is commonly written in HTML and translated by a web browser. It can be identified by entering an URL.
+
+
+<!-- Description of HTML5-->
+
+ <!DOCTYPE>: It instruct the browser about the version of HTML. it is only used in HTML5.
+
+ <html> : This tag informs the browser that it is an HTML document. Text between html tag describes the web document.
+         It helps as a container for all other elements of HTML except <!DOCTYPE>
+
+<head>: It should be the first element inside the <html> element,
+        which contains the metadata(information about the document). It must be closed before the body tag opens.
+
+<title>: It is used to add title of that HTML page which appears at the top of the browser window. 
+         It must be placed inside the head tag and should close immediately.
+
+<body> : Text between body tag describes the body content of the page that is visible to the end user. 
+         This tag contains the main content of the HTML document.
+
+<h1> : It describes the first level heading of the webpage.
+
+<p> :  It describes the paragraph of the webpage.
+
+
+   <!-- FORM -->
+      This is Section of a document containing normal content, labels, markup, checkboxes, radio buttons, button, menus etc.
+   
